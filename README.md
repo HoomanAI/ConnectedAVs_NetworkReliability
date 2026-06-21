@@ -1,2 +1,2 @@
-# CAV_RESS
-Impact of Network Reliability on Connected Autonomous Vehicles
+# ConnectedAVs_NetworkReliability
+A reliability-aware routing framework for Connected Autonomous Vehicles (CAVs) in post-disaster emergency response. The project models the impact of V2X communication network degradation on routing performance using a reliability-adjusted traffic model, fuzzy time windows, and multi-objective optimization to improve patient service quality, travel efficiency, and network resilience.
