@@ -1,12 +1,5 @@
-# CAV Reliability Routing — Reproducibility Package
+# Connected Autonomous Vehicles Reliability Routing
 
-> **Paper:** *Impact of Network Reliability on Service Quality in Connected Autonomous Vehicle Routing with Fuzzy Time Windows: A Multi-Objective Post-Disaster Emergency Framework*
->
-> **Target Journal:** Reliability Engineering & System Safety (Elsevier)
->
-> **Authors:** H. Razavi et al. · June 2026
-
----
 
 ## Core Idea
 
