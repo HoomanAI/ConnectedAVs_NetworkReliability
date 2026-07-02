@@ -49,7 +49,7 @@ cav-reliability-routing/
 
 <p align="center">
 
-![Banner](banner/GIF1_core_concept.gif)
+![Banner](Banner/GIF1_core_concept.gif)
 
 </p>
 
