@@ -1,11 +1,3 @@
-# Connected Autonomous Vehicle Reliability Routing
-
-<p align="center">
-  <img src="Banner/GIF3_pareto_collapse.gif" width="900" alt="Connected Autonomous Vehicle Reliability Routing"/>
-</p>
-
-<p align="center">
-
 **Reliability-aware emergency routing for Connected Autonomous Vehicles under large-scale infrastructure disruption**
 
 *Fully reproducible research framework accompanying our Reliability Engineering & System Safety manuscript.*
@@ -59,17 +51,6 @@ This project investigates:
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── Banner/
-├── code/
-├── case_study_iberia/
-├── requirements.txt
-└── README.md
-```
-
 ### Main Framework (`code/`)
 
 Contains the complete simulation framework used throughout the paper.
@@ -93,36 +74,6 @@ Features include:
 - geographic visualization
 - animated GIF creation
 - MATLAB figure generation
-
----
-
-## Research Workflow
-
-```text
-Transportation Network
-          │
-          ▼
- Reliability Model
-          │
-          ▼
-Emergency Demand
-          │
-          ▼
-Route Optimization
-          │
-          ▼
-Simulation
-          │
-          ▼
-Performance Evaluation
-          │
-          ▼
-Figures • Tables • Reports • GIFs
-```
-
----
-
-## Animated Demonstrations
 
 ### 1. Core Concept Dashboard
 
@@ -182,72 +133,6 @@ Visual comparison of optimization performance for:
 
 ---
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Quick Start
-
-Run all simulation experiments:
-
-```bash
-python code/master_pipeline.py
-```
-
-Run the Madrid case study:
-
-```bash
-python case_study_iberia/code/run_case_study.py
-```
-
-Generate animated GIFs:
-
-```bash
-python case_study_iberia/code/create_gifs.py
-```
-
-Generate MATLAB figures:
-
-```matlab
-run('code/generate_all_matlab_figs.m')
-```
-
----
-
-## Generated Outputs
-
-Running the framework automatically produces:
-
-- Publication-quality PDF figures
-- PNG graphics
-- MATLAB `.fig` files
-- CSV result tables
-- Microsoft Word reports
-- Animated GIFs
-- Geographic maps
-
-All outputs are organized into dedicated directories for immediate inclusion in journal manuscripts.
-
----
-
-## Algorithms
-
-| Algorithm | Category | Purpose |
-|-----------|----------|---------|
-| QiGA | SOO | Primary optimization algorithm |
-| GA | SOO | Baseline |
-| PSO | SOO | Baseline |
-| ALNS | SOO | Baseline |
-| TS | SOO | Baseline |
-| NSGA-II | MOO | Pareto optimization |
-| MOEA/D | MOO | Pareto optimization |
-
----
-
 ## Case Study
 
 The framework is validated using the **2025 Iberian Peninsula Blackout**.
@@ -256,6 +141,7 @@ The Madrid transportation network is reconstructed from OpenStreetMap and evalua
 
 The results demonstrate that reliability-aware routing substantially improves emergency medical service during severe infrastructure degradation.
 
+![Banner](Banner/GIF2_madrid_map.gif)
 ---
 
 ## Citation
