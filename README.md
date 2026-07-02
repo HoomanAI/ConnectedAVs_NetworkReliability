@@ -143,7 +143,9 @@ The Madrid transportation network is reconstructed from OpenStreetMap and evalua
 
 The results demonstrate that reliability-aware routing substantially improves emergency medical service during severe infrastructure degradation.
 
-![Banner](Banner/GIF2_madrid_map.gif)
+<p align="center">
+  <img src="Banner/GIF2_madrid_map.gif" alt="Dashboard" width="500">
+</p>
 ---
 
 ## Citation
