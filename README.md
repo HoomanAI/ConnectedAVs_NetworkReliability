@@ -78,7 +78,7 @@ Features include:
 ### 1. Core Concept Dashboard
 
 <p align="center">
-  <img src="Banner/GIF1_core_concept.gif" alt="Dashboard" width="700">
+  <img src="Banner/GIF1_core_concept.gif" alt="Dashboard" width="800">
 </p>
 
 Shows the simultaneous evolution of:
@@ -148,20 +148,6 @@ The results demonstrate that reliability-aware routing substantially improves em
 </p>
 ---
 
-## Citation
-
-```bibtex
-@article{razavi2026cav,
-  title={Impact of Network Reliability on Service Quality in Connected Autonomous Vehicle Routing with Fuzzy Time Windows},
-  author={Razavi, H. and others},
-  journal={Reliability Engineering & System Safety},
-  year={2026},
-  note={Under Review}
-}
-```
-
----
-
 ## License
 
 - Code: MIT License
@@ -174,6 +160,6 @@ The results demonstrate that reliability-aware routing substantially improves em
 
 **H. Razavi**
 
-📧 hoomanrazavi68@gmail.com
+📧 hoomanrazavi@gmail.com
 
 For questions regarding datasets or implementation, please open an issue or contact the corresponding author.
