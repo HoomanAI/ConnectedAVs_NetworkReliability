@@ -77,7 +77,9 @@ Features include:
 
 ### 1. Core Concept Dashboard
 
-![Dashboard](Banner/GIF1_core_concept.gif)
+<p align="center">
+  <img src="Banner/GIF1_core_concept.gif" alt="Dashboard" width="800">
+</p>
 
 Shows the simultaneous evolution of:
 
