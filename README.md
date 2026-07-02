@@ -146,7 +146,7 @@ The results demonstrate that reliability-aware routing substantially improves em
 <p align="center">
   <img src="Banner/GIF2_madrid_map.gif" alt="Dashboard" width="500">
 </p>
----
+
 
 ## License
 
@@ -154,7 +154,7 @@ The results demonstrate that reliability-aware routing substantially improves em
 - OpenStreetMap data: ODbL 1.0
 - Madrid hospital data: CC BY 4.0
 
----
+
 
 ## Contact
 
