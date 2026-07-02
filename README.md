@@ -3,9 +3,7 @@
 
 ## Core Idea
 
-<p align="center">
-  <img src="case_study_iberia/figures/gif/GIF1_core_concept.gif" width="900" alt="Core concept: network reliability collapses → service rate drops → awareness gap grows"/>
-</p>
+![Banner](Banner/GIF1_core_concept.gif)
 
 > *As network link reliability φ degrades during the 2025 Iberian Peninsula blackout, service rate collapses
 > and reliability-aware routing recovers **18–35 percentage points** more patients than unaware planning.*
