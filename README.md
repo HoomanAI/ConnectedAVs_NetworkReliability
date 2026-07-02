@@ -48,7 +48,9 @@ cav-reliability-routing/
 *Five-panel live dashboard: map evolving, phase diagram, SR bars, timeline, awareness gap*
 
 <p align="center">
-  <img src="banner/GIF1_core_concept.gif" width="860" alt="Core concept dashboard animation">
+
+![Banner](banner/GIF1_core_concept.gif)
+
 </p>
 
 ---
